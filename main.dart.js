@@ -76861,6 +76861,7 @@ B.b.W(s.f,r)
 s.u6()
 s.j2()},
 u6(){var s=this
+if(s.Q.length===0)return
 B.b.D(s.y,new A.al(1,"",B.U,"32",!1,"NULL"))
 s.f.push(A.io(!0,null,!0,!0,null,null,!1))
 s.af(new A.adZ())
